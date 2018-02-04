@@ -21,10 +21,10 @@ public class Sample44 {
 		}
 
 		Calc5 calc = new Calc5();
-        calc.method("足し算");
-        calc.add();
-        calc.method("掛け算");
-        calc.mul();
+        	calc.method("足し算");
+        	calc.add();
+        	calc.method("掛け算");
+        	calc.mul();
 
 	}
 
