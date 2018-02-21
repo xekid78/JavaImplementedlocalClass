@@ -1,4 +1,4 @@
-# JavaImplementedlocalClass
+# JavaImplementedLocalClass
 インターフェースを実装したローカルクラス
 ## 処理
 [JavaMultipleInheritance](https://github.com/xekid78/JavaMultipleInheritance)の処理をローカルクロスにして見ました。
